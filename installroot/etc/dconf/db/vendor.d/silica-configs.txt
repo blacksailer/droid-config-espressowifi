@@ -1,0 +1,4 @@
+[desktop/sailfish/silica]
+theme_pixel_ratio=0.8
+theme_icon_subdir='z1.0'
+
